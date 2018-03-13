@@ -1,22 +1,6 @@
-<p align="center"><a href="https://medium.com/@notrab/getting-started-with-create-react-app-redux-react-router-redux-thunk-d6a19259f71f"><img src="https://i.imgur.com/PATsTx2.png" title="View tutorial" alt="React, React Router, Redux and Redux Thunk" width="900"></a></p>
+# Flashy
+Learn computer science and programming concepts with flash cards.
 
-[![Dependency Status](https://dependencyci.com/github/notrab/create-react-app-redux/badge)](https://dependencyci.com/github/notrab/create-react-app-redux)
+[![Maintainability](https://api.codeclimate.com/v1/badges/3e921842f631c3b7e089/maintainability)](https://codeclimate.com/github/joshsaintjacque/flashy/maintainability)
 
-* Tutorial: [Getting started with create-react-app, Redux, React Router & Redux Thunk](https://medium.com/@notrab/getting-started-with-create-react-app-redux-react-router-redux-thunk-d6a19259f71f)
-* Example: [View on Heroku](https://cra-redux-router-thunk.herokuapp.com/) 🙌
-
-## Installation
-
-```bash
-git clone https://github.com/notrab/create-react-app-redux.git
-cd create-react-app-redux
-yarn
-```
-
-## Get started
-
-```bash
-yarn start
-```
-
-This boilerplate is built using [create-react-app](https://github.com/facebookincubator/create-react-app) so you will want to read the User Guide for more goodies.
+[![Test Coverage](https://api.codeclimate.com/v1/badges/3e921842f631c3b7e089/test_coverage)](https://codeclimate.com/github/joshsaintjacque/flashy/test_coverage)
